@@ -4,13 +4,31 @@
 
 <header sticky>
   <navbar type="dark">
-    <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">Your Logo</a>
-    <li><a href="{{baseUrl}}/contents/topic1.html" class="nav-link">Topic 1</a></li>
-    <li><a href="{{baseUrl}}/contents/topic2.html" class="nav-link">Topic 2</a></li>
-    <dropdown header="Topic 3" class="nav-link">
-      <li><a href="{{baseUrl}}/contents/topic3a.html" class="dropdown-item">Topic 3a</a></li>
-      <li><a href="{{baseUrl}}/contents/topic3b.html" class="dropdown-item">Topic 3b</a></li>
+    <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">CS4218</a>
+    <dropdown header="Project overview and Labs" class="nav-link">
+      <li><a href="{{baseUrl}}/contents/topic1a.html" class="dropdown-item">Overview</a></li>
+      <li><a href="{{baseUrl}}/contents/topic1b.html" class="dropdown-item">Setting Up</a></li>
+      <li><a href="{{baseUrl}}/contents/topic1c.html" class="dropdown-item">Unit Testing</a></li>
+      <li><a href="{{baseUrl}}/contents/topic1d.html" class="dropdown-item">Debugging</a></li>
+      <li><a href="{{baseUrl}}/contents/topic1e.html" class="dropdown-item">Code analysis/coverage</a></li>
+      <li><a href="{{baseUrl}}/contents/topic1f.html" class="dropdown-item">UI testing</a></li>
+      <li><a href="{{baseUrl}}/contents/topic1g.html" class="dropdown-item">Load testing</a></li>
     </dropdown>
+    <dropdown header="Project Requirements" class="nav-link">
+      <li><a href="{{baseUrl}}/contents/topic2a.html" class="dropdown-item">Team formation</a></li>
+      <li><a href="{{baseUrl}}/contents/topic2b.html" class="dropdown-item">Set up github class room</a></li>
+      <li><a href="{{baseUrl}}/contents/topic2c.html" class="dropdown-item">Phase 1 requirements</a></li>
+      <li><a href="{{baseUrl}}/contents/topic2d.html" class="dropdown-item">Phase 2 requirements</a></li>
+      <li><a href="{{baseUrl}}/contents/topic2e.html" class="dropdown-item">Phase 2 testing</a></li>
+      <li><a href="{{baseUrl}}/contents/topic2f.html" class="dropdown-item">Submission instructions</a></li>
+      <li><a href="{{baseUrl}}/contents/topic2g.html" class="dropdown-item">Report</a></li>
+    </dropdown>
+    <li><a href="{{baseUrl}}/contents/topic3.html" class="nav-link">Project Management</a></li>
+    <dropdown header="FAQ" class="nav-link">
+      <li><a href="{{baseUrl}}/contents/topic4a.html" class="dropdown-item">Tools</a></li>
+      <li><a href="{{baseUrl}}/contents/topic4b.html" class="dropdown-item">Project</a></li>
+    </dropdown>  
+    <li><a href="{{baseUrl}}/contents/topic5.html" class="nav-link">References</a></li>
     <li slot="right">
       <form class="navbar-form">
         <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
@@ -27,11 +45,27 @@
     <div class="nav-component slim-scroll">
       <site-nav>
 * [Home :house:]({{ baseUrl }}/index.html)
-* [Topic 1]({{baseUrl}}/contents/topic1.html)
-* [Topic 2]({{baseUrl}}/contents/topic2.html)
-* Topic 3 :expanded:
-  * [Topic 3a]({{baseUrl}}/contents/topic3a.html)
-  * [Topic 3b]({{baseUrl}}/contents/topic3b.html)
+* Project overview and Labs :expanded: 
+  * [Overview]({{baseUrl}}/contents/topic1a.html)
+  * [Setting Up]({{baseUrl}}/contents/topic1b.html)
+  * [Unit testing]({{baseUrl}}/contents/topic1c.html)
+  * [Debugging]({{baseUrl}}/contents/topic1d.html)
+  * [Code analysis/coverage]({{baseUrl}}/contents/topic1e.html)
+  * [UI testing]({{baseUrl}}/contents/topic1f.html)
+  * [Load testing]({{baseUrl}}/contents/topic1g.html)
+* Project Requirements :expanded: 
+  * [Team formation]({{baseUrl}}/contents/topic2a.html)
+  * [Set up github class room]({{baseUrl}}/contents/topic2b.html)
+  * [Phase 1 requirements]({{baseUrl}}/contents/topic2c.html)
+  * [Phase 2 requirements]({{baseUrl}}/contents/topic2d.html)
+  * [Phase 2 testing]({{baseUrl}}/contents/topic2e.html)
+  * [Submission instructions]({{baseUrl}}/contents/topic2f.html)
+  * [Report]({{baseUrl}}/contents/topic2g.html)
+* [Project Management]({{baseUrl}}/contents/topic3.html)
+* FAQ :expanded: 
+  * [Tools]({{baseUrl}}/contents/topic4a.html)
+  * [Project]({{baseUrl}}/contents/topic4b.html)
+* [References]({{baseUrl}}/contents/topic5.html)  
       </site-nav>
     </div>
   </nav>
