@@ -1,0 +1,10 @@
+2024-05-24T09:31:02.941Z - info: Initialization success.
+2024-05-24T09:33:47.490Z - info: Website generation started at 5:33:47 PM
+2024-05-24T09:33:47.840Z - info: Building assets...
+2024-05-24T09:33:48.094Z - info: Assets built
+2024-05-24T09:33:48.095Z - info: Generating pages...
+2024-05-24T09:33:48.389Z - info: Pages built
+2024-05-24T09:33:48.539Z - info: Site data built
+2024-05-24T09:33:48.540Z - info: Website generation complete! Total build time: 1.125s
+2024-05-24T09:33:48.557Z - info: Serving "/Users/rp/user-guide/_site" at http://127.0.0.1:8080
+2024-05-24T09:33:48.557Z - info: Press CTRL+C to stop ...
