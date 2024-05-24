@@ -8,3 +8,35 @@
 2024-05-24T09:33:48.540Z - info: Website generation complete! Total build time: 1.125s
 2024-05-24T09:33:48.557Z - info: Serving "/Users/rp/user-guide/_site" at http://127.0.0.1:8080
 2024-05-24T09:33:48.557Z - info: Press CTRL+C to stop ...
+2024-05-24T10:15:22.852Z - info: [6:15:22 PM] Reload for file change: /Users/rp/user-guide/site.json
+2024-05-24T10:15:22.874Z - debug: Assets removed
+2024-05-24T10:15:22.888Z - info: Building assets...
+2024-05-24T10:15:23.548Z - info: Assets built
+2024-05-24T10:15:24.560Z - info: Pages or site config modified, updating pages...
+2024-05-24T10:15:25.568Z - warn: Rebuilding all pages...
+2024-05-24T10:15:25.568Z - info: Generating pages...
+2024-05-24T10:15:25.755Z - info: Pages built
+2024-05-24T10:15:25.756Z - info: Site data built
+2024-05-24T10:16:03.625Z - info: [6:16:03 PM] Reload for file change: /Users/rp/user-guide/site.json
+2024-05-24T10:16:03.639Z - info: No pages needed to be rebuilt
+2024-05-24T10:17:10.023Z - info: [6:17:10 PM] Reload for file add: /Users/rp/user-guide/github-actions-yml-files/build-cp-linux.yml
+2024-05-24T10:17:11.032Z - info: Assets built
+2024-05-24T10:17:23.713Z - info: [6:17:23 PM] Reload for file add: /Users/rp/user-guide/github-actions-yml-files/build-cp-mac.yml
+2024-05-24T10:17:24.719Z - info: Assets built
+2024-05-24T10:17:38.673Z - info: [6:17:38 PM] Reload for file add: /Users/rp/user-guide/github-actions-yml-files/build-cp-windows.yml
+2024-05-24T10:17:39.680Z - info: Assets built
+2024-05-24T10:18:10.701Z - info: [6:18:10 PM] Reload for file change: /Users/rp/user-guide/github-actions-yml-files/build-cp-linux.yml
+2024-05-24T10:18:11.705Z - info: Assets built
+2024-05-24T10:18:39.048Z - info: [6:18:39 PM] Reload for file change: /Users/rp/user-guide/github-actions-yml-files/build-cp-mac.yml
+2024-05-24T10:18:40.055Z - info: Assets built
+2024-05-24T10:19:18.019Z - info: [6:19:18 PM] Reload for file change: /Users/rp/user-guide/github-actions-yml-files/build-cp-windows.yml
+2024-05-24T10:19:19.025Z - info: Assets built
+2024-05-24T10:22:51.022Z - info: Website generation started at 6:22:50 PM
+2024-05-24T10:22:51.522Z - info: Building assets...
+2024-05-24T10:22:51.788Z - info: Assets built
+2024-05-24T10:22:51.789Z - info: Generating pages...
+2024-05-24T10:22:52.099Z - info: Pages built
+2024-05-24T10:22:52.385Z - info: Site data built
+2024-05-24T10:22:52.385Z - info: Website generation complete! Total build time: 1.469s
+2024-05-24T10:22:52.385Z - info: Build success!
+2024-05-24T10:23:01.444Z - info: The website has been deployed at: https://rahulprasad01.github.io/

@@ -1,7 +1,12 @@
 {
-  "baseUrl": "",
-  "titlePrefix": "",
-  "titleSuffix": "",
+  "baseUrl": "/user-guide",
+  "titlePrefix": "CS4218",
+  "style": {
+    "codeTheme": "light",
+    "codeLineNumbers": true
+  },
+  "timeZone": "Asia/Singapore",
+  "disableHtmlBeautify": true,
   "ignore": [
     "_markbind/layouts/*",
     "_markbind/logs/*",
@@ -10,19 +15,28 @@
     "*.md",
     "*.njk",
     ".git/*",
-    ".gitignore",
-    "node_modules/*"
+    "node_modules/*",
+    "README.md",
+    ".git/*",
+    ".gitignore"
   ],
   "pagesExclude": ["node_modules/*"],
   "pages": [
     {
-      "src": "index.md"
+      "src": "index.md",
+      "title": "CS4218"
     },
     {
       "glob": ["**/index.md", "**/*.md"]
     }
   ],
+  "intrasiteLinkValidation": {
+    "enabled": false
+  },
+  "headingIndexingLevel": 5,
   "deploy": {
-    "message": "Site Update."
-  }
+  "message": "Site Update.",
+  "repo": "https://github.com/rahulprasad01/user-guide",
+  "branch": "gh-pages"
+}
 }
