@@ -1,0 +1,48 @@
+2025-01-26T09:02:50.539Z - info: Website generation started at 5:02:50 PM
+2025-01-26T09:02:50.561Z - info: Building assets...
+2025-01-26T09:02:50.565Z - info: Assets built
+2025-01-26T09:02:50.565Z - info: Generating pages...
+2025-01-26T09:02:50.738Z - info: Pages built
+2025-01-26T09:02:50.799Z - info: Site data built
+2025-01-26T09:02:50.799Z - info: Website generation complete! Total build time: 0.298s
+2025-01-26T09:02:50.807Z - info: Serving "/Users/rajdeep/repos/cs4218/user-guide/_site" at http://127.0.0.1:8080
+2025-01-26T09:02:50.808Z - info: Press CTRL+C to stop ...
+2025-01-26T09:04:15.571Z - info: [5:04:15 PM] Reload for file change: /Users/rajdeep/repos/cs4218/user-guide/contents/topic1a.md
+2025-01-26T09:04:16.577Z - info: Rebuilding 1 pages
+2025-01-26T09:04:16.633Z - info: Site data built
+2025-01-26T09:04:16.633Z - info: Pages rebuilt
+2025-01-26T09:04:16.633Z - info: Website regeneration complete! Total build time: 0.058s
+2025-01-26T09:05:04.566Z - info: [5:05:04 PM] Reload for file change: /Users/rajdeep/repos/cs4218/user-guide/contents/topic1a.md
+2025-01-26T09:05:04.768Z - info: [5:05:04 PM] Reload for file change: /Users/rajdeep/repos/cs4218/user-guide/contents/topic1a.md
+2025-01-26T09:05:04.868Z - info: [5:05:04 PM] Reload for file change: /Users/rajdeep/repos/cs4218/user-guide/contents/topic1a.md
+2025-01-26T09:05:05.071Z - info: [5:05:05 PM] Reload for file change: /Users/rajdeep/repos/cs4218/user-guide/contents/topic1a.md
+2025-01-26T09:05:05.273Z - info: [5:05:05 PM] Reload for file change: /Users/rajdeep/repos/cs4218/user-guide/contents/topic1a.md
+2025-01-26T09:05:05.374Z - info: [5:05:05 PM] Reload for file change: /Users/rajdeep/repos/cs4218/user-guide/contents/topic1a.md
+2025-01-26T09:05:05.570Z - info: Rebuilding 1 pages
+2025-01-26T09:05:05.604Z - info: Site data built
+2025-01-26T09:05:05.604Z - info: Pages rebuilt
+2025-01-26T09:05:05.604Z - info: Website regeneration complete! Total build time: 0.035s
+2025-01-26T09:05:38.784Z - info: [5:05:38 PM] Reload for file change: /Users/rajdeep/repos/cs4218/user-guide/index.md
+2025-01-26T09:05:39.787Z - info: Rebuilding 1 pages
+2025-01-26T09:05:39.814Z - info: Site data built
+2025-01-26T09:05:39.814Z - info: Pages rebuilt
+2025-01-26T09:05:39.814Z - info: Website regeneration complete! Total build time: 0.028s
+2025-01-26T09:06:45.985Z - info: [5:06:45 PM] Reload for file change: /Users/rajdeep/repos/cs4218/user-guide/_markbind/layouts/default.md
+2025-01-26T09:06:47.011Z - info: Rebuilding 20 pages
+2025-01-26T09:06:47.136Z - info: Site data built
+2025-01-26T09:06:47.136Z - info: Pages rebuilt
+2025-01-26T09:06:47.136Z - info: Website regeneration complete! Total build time: 0.125s
+2025-01-26T09:07:17.508Z - info: [5:07:17 PM] Reload for file change: /Users/rajdeep/repos/cs4218/user-guide/_markbind/layouts/default.md
+2025-01-26T09:07:18.527Z - info: Rebuilding 20 pages
+2025-01-26T09:07:18.658Z - info: Site data built
+2025-01-26T09:07:18.658Z - info: Pages rebuilt
+2025-01-26T09:07:18.658Z - info: Website regeneration complete! Total build time: 0.131s
+2025-01-26T09:08:32.795Z - info: Website generation started at 5:08:32 PM
+2025-01-26T09:08:32.818Z - info: Building assets...
+2025-01-26T09:08:32.823Z - info: Assets built
+2025-01-26T09:08:32.823Z - info: Generating pages...
+2025-01-26T09:08:32.980Z - info: Pages built
+2025-01-26T09:08:33.043Z - info: Site data built
+2025-01-26T09:08:33.043Z - info: Website generation complete! Total build time: 0.27s
+2025-01-26T09:08:33.050Z - info: Serving "/Users/rajdeep/repos/cs4218/user-guide/_site" at http://127.0.0.1:8080
+2025-01-26T09:08:33.051Z - info: Press CTRL+C to stop ...
