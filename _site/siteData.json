@@ -20,8 +20,9 @@
       "headings": {
         "mern-stack-ecommerce-project-overview": "MERN Stack Ecommerce Project Overview",
         "introduction": "Introduction",
-        "website-features": "Website Features",
-        "your-task": "Your Task"
+        "features": "Features",
+        "testing-and-quality-assurance": "Testing and Quality Assurance",
+        "project-extension": "Project Extension"
       },
       "headingKeywords": {}
     },

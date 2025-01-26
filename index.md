@@ -18,12 +18,12 @@
 
 ## Project introduction
 
-`Virtual Vault` is a full-stack `MERN` (MongoDB, Express.js, React.js, Node.js) e-commerce website, offering seamless connectivity and user-friendly features. The platform provides a robust framework for online shopping. The website is designed to adapt to evolving business needs and can be efficiently extended.
+Virtual vault is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) e-commerce website, offering seamless connectivity and user-friendly features. The platform provides a robust framework for online shopping. The website is designed to adapt to evolving business needs and can be efficiently extended.
 
 <box type="tip">
 
 **Tip: Learn more about the MERN stack!**
-Want to understand the MERN stack better? Check out the [MongoDB MERN Overview](https://www.mongodb.com/resources/languages/mern-stack) for more information.
+Want to understand the MERN (MongoDB, Express.js, React, Node.js) stack better? Check out the [MongoDB MERN stack resource]<a href="https://www.mongodb.com/resources/languages/mern-stack)" for more information.
 
 </box>
 
