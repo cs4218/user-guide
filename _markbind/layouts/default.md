@@ -14,7 +14,7 @@
       <li><a href="{{baseUrl}}/contents/topic1f.html" class="dropdown-item">UI testing</a></li>
       <li><a href="{{baseUrl}}/contents/topic1g.html" class="dropdown-item">Load testing</a></li>
     </dropdown>
-    <dropdown header="Project Requirements" class="nav-link">
+    <!-- <dropdown header="Project Requirements" class="nav-link">
       <li><a href="{{baseUrl}}/contents/topic2a.html" class="dropdown-item">Team formation</a></li>
       <li><a href="{{baseUrl}}/contents/topic2b.html" class="dropdown-item">Set up github class room</a></li>
       <li><a href="{{baseUrl}}/contents/topic2c.html" class="dropdown-item">Phase 1 requirements</a></li>
@@ -28,7 +28,7 @@
       <li><a href="{{baseUrl}}/contents/topic4a.html" class="dropdown-item">Tools</a></li>
       <li><a href="{{baseUrl}}/contents/topic4b.html" class="dropdown-item">Project</a></li>
     </dropdown>  
-    <li><a href="{{baseUrl}}/contents/topic5.html" class="nav-link">References</a></li>
+    <li><a href="{{baseUrl}}/contents/topic5.html" class="nav-link">References</a></li> -->
     <li slot="right">
       <form class="navbar-form">
         <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
