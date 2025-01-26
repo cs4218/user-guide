@@ -31,7 +31,6 @@ Welcome to our MERN stack ecommerce project! This project is developed using the
 Students participating in this project will have the opportunity to extend functionalities and contribute to various aspects such as:
 
 - Find bugs in the existing codebase and fix them to improve the overall stability and functionality of the ecommerce platform.
-<!-- - Implementing additional features and enhancements to the ecommerce website. -->
 - Writing unit tests and UI tests to ensure the reliability and quality of the codebase.
 - Analyzing code quality and coverage metrics using SonarQube and making improvements as necessary.
 - Conducting load testing with JMeter to evaluate and optimize the website's performance under load.
