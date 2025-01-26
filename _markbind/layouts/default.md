@@ -53,7 +53,7 @@
   * [Code analysis/coverage]({{baseUrl}}/contents/topic1e.html)
   * [UI testing]({{baseUrl}}/contents/topic1f.html)
   * [Load testing]({{baseUrl}}/contents/topic1g.html)
-* Project Requirements :expanded: 
+<!-- * Project Requirements :expanded: 
   * [Team formation]({{baseUrl}}/contents/topic2a.html)
   * [Set up github class room]({{baseUrl}}/contents/topic2b.html)
   * [Phase 1 requirements]({{baseUrl}}/contents/topic2c.html)
@@ -65,7 +65,7 @@
 * FAQ :expanded: 
   * [Tools]({{baseUrl}}/contents/topic4a.html)
   * [Project]({{baseUrl}}/contents/topic4b.html)
-* [References]({{baseUrl}}/contents/topic5.html)  
+* [References]({{baseUrl}}/contents/topic5.html)   -->
       </site-nav>
     </div>
   </nav>
