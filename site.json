@@ -36,7 +36,7 @@
   "headingIndexingLevel": 5,
   "deploy": {
   "message": "Site Update.",
-  "repo": "https://github.com/rahulprasad01/user-guide",
+  "repo": "https://github.com/cs4218/user-guide",
   "branch": "gh-pages"
 }
 }
